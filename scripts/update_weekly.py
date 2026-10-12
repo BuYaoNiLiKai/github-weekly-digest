@@ -89,6 +89,38 @@ def render_report(items: list[dict[str, str]], captured_at: datetime) -> str:
     return "\n".join(lines)
 
 
+def render_readme_section(items: list[dict[str, str]], captured_at: datetime) -> str:
+    date_label = captured_at.strftime("%Y-%m-%d")
+    lines = [
+        f"## 🏆 最新周榜 · {date_label}",
+        "",
+        f"**抓取时间：** {captured_at.strftime('%Y-%m-%d %H:%M')}（北京时间） · **收录项目：** {len(items)} 个 · [查看 GitHub Trending]({URL})",
+        "",
+        "| 排名 | 项目 | 本周新增 | 语言 | 项目简介 |",
+        "|:---:|---|---:|---|---|",
+    ]
+    for rank, item in enumerate(items, start=1):
+        description = clean_text(item["description"]).replace("|", "&#124;")
+        lines.append(
+            f"| {rank:02d} | [{item['repo']}]({item['url']}) | ⭐ +{item['weekly_stars']} | {item['language']} | {description} |"
+        )
+    return "\n".join(lines)
+
+
+def update_readme(items: list[dict[str, str]], captured_at: datetime) -> None:
+    readme_path = ROOT / "README.md"
+    readme = readme_path.read_text(encoding="utf-8")
+    start_marker = "<!-- latest-digest:start -->"
+    end_marker = "<!-- latest-digest:end -->"
+    if readme.count(start_marker) != 1 or readme.count(end_marker) != 1:
+        raise RuntimeError("README.md 中最新榜单区块标记缺失或重复，停止覆盖。")
+
+    before, remainder = readme.split(start_marker)
+    _, after = remainder.split(end_marker)
+    updated = f"{before}{start_marker}\n{render_readme_section(items, captured_at)}\n{end_marker}{after}"
+    readme_path.write_text(updated, encoding="utf-8")
+
+
 def main() -> None:
     response = requests.get(URL, headers=HEADERS, timeout=30)
     response.raise_for_status()
@@ -97,6 +129,7 @@ def main() -> None:
     REPORTS.mkdir(parents=True, exist_ok=True)
     destination = REPORTS / f"{captured_at:%Y-%m-%d}.md"
     destination.write_text(render_report(items, captured_at), encoding="utf-8")
+    update_readme(items, captured_at)
     print(f"Wrote {len(items)} repositories to {destination}")
 
 
