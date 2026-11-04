@@ -18,7 +18,7 @@
 | 05 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ⭐ +10,069 | JavaScript | 供编程智能体分阶段执行安全审计，并生成可独立验证、机器可读的审计结果。 |
 | 06 | [obra/superpowers](https://github.com/obra/superpowers) | ⭐ +5,896 | Shell | 面向智能体的软件开发技能框架与方法论，帮助智能体按步骤协作完成开发。 |
 | 07 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | ⭐ +5,760 | TypeScript | 将 Pi 集成到轻量级 IDE 中，并可按你的工作方式调整，提供 AI 辅助编程体验。 |
-| 08 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | ⭐ +6,926 | TypeScript | GitHub 尚未提供项目简介。 |
+| 08 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | ⭐ +6,926 | TypeScript | 为编程智能体提供远程控制台，可通过手机、网页或桌面端管理运行在本机上的 Codex、Claude Code、Cursor 等工具。 |
 | 09 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐ +4,459 | 未标注语言 | 用一个 CLAUDE.md 文件改进 Claude Code 的行为，内容源自 Andrej Karpathy 对大语言模型编程常见问题的观察。 |
 | 10 | [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | ⭐ +1,607 | Markdown | 一组帮助编程智能体打造优质界面的技能。 |
 | 11 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ⭐ +5,432 | Python | 基于多智能体的大语言模型金融交易框架。 |
