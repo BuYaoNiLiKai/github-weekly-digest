@@ -7,21 +7,21 @@
 <!-- latest-digest:start -->
 ## 🏆 最新周榜 · 2026-11-16
 
-**抓取时间：** 2026-11-15 14:57（北京时间） · **收录项目：** 11 个 · [查看 GitHub Trending](https://github.com/trending?since=weekly)
+**抓取时间：** 2026-11-16 15:27（北京时间） · **收录项目：** 11 个 · [查看 GitHub Trending](https://github.com/trending?since=weekly)
 
 | 排名 | 项目 | 本周新增 | 语言 | 项目简介 |
 |:---:|---|---:|---|---|
-| 01 | [meta/astryx](https://github.com/meta/astryx) | ⭐ +13,660 | TypeScript | 开源、可定制且面向智能体的设计系统。 |
-| 02 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | ⭐ +12,401 | Python | 按用户名在多个社交网络中查找账号的工具。 |
-| 03 | [anthropics/skills](https://github.com/anthropics/skills) | ⭐ +6,220 | Python | Anthropic 发布的 Agent Skills（智能体技能）公开仓库。 |
-| 04 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | ⭐ +4,601 | Rust | 面向 AI 智能体的浏览器自动化命令行工具。 |
-| 05 | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | ⭐ +5,539 | Python | 供智能体参与软件设计和评审的开源插件。 |
-| 06 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ⭐ +6,413 | TypeScript | 开源 Grok Bot 替代方案，为机器人提供可操作的虚拟机环境。 |
-| 07 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ +4,526 | Python | LLM 驱动的多市场股票分析系统，整合多源行情与实时新闻，提供决策看板和自动推送。 |
-| 08 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | ⭐ +1,859 | C++ | 通用物理模拟器，可模拟多关节动力学与接触过程。 |
-| 09 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | ⭐ +818 | TypeScript | 帮助团队参与智能体协作的工作台，可规划、批注、审查代码并一键向智能体反馈。 |
-| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ +3,670 | JavaScript | 面向 AI 编程智能体的生产级工程技能。 |
-| 11 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | ⭐ +1,794 | Python | 一组快速上手项目，帮助开发者用 Claude API 构建可部署应用。 |
+| 01 | [meta/astryx](https://github.com/meta/astryx) | ⭐ +13,501 | TypeScript | An open source design system that's fully customizable and agent ready |
+| 02 | [anthropics/skills](https://github.com/anthropics/skills) | ⭐ +6,077 | Python | Public repository for Agent Skills |
+| 03 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | ⭐ +10,412 | Python | Hunt down social media accounts by username across social networks |
+| 04 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | ⭐ +1,719 | TypeScript | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| 05 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | ⭐ +4,217 | Rust | Browser automation CLI for AI agents |
+| 06 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ +4,548 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| 07 | [we-promise/sure](https://github.com/we-promise/sure) | ⭐ +4,556 | Ruby | The personal finance app for everyone (by everyone) |
+| 08 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ⭐ +5,463 | TypeScript | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| 09 | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | ⭐ +5,060 | Python | Open-source plugin for designing and reviewing software with agents |
+| 10 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | ⭐ +1,922 | C++ | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| 11 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ +3,889 | JavaScript | Production-grade engineering skills for AI coding agents. |
 <!-- latest-digest:end -->
 
 ## 🗂️ 历史周报
