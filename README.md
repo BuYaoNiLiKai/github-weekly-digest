@@ -7,23 +7,23 @@
 <!-- latest-digest:start -->
 ## 🏆 最新周榜 · 2026-11-23
 
-**抓取时间：** 2026-11-22 14:57（北京时间） · **收录项目：** 13 个 · [查看 GitHub Trending](https://github.com/trending?since=weekly)
+**抓取时间：** 2026-11-23 16:25（北京时间） · **收录项目：** 13 个 · [查看 GitHub Trending](https://github.com/trending?since=weekly)
 
 | 排名 | 项目 | 本周新增 | 语言 | 项目简介 |
 |:---:|---|---:|---|---|
-| 01 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | ⭐ +3,396 | TypeScript | 帮助团队跟进智能体工作，可规划、批注、审查代码，并一键把反馈发回智能体。 |
-| 02 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | ⭐ +2,431 | TypeScript | 适配 Stitch MCP 的 Agent Skills 技能库，兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编程智能体。 |
-| 03 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | ⭐ +4,400 | TypeScript | 为编程智能体提供最新的 Web 开发最佳实践。 |
-| 04 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | ⭐ +4,032 | Go | 阿里巴巴的混合式代码审查工具，结合确定性规则和大语言模型，支持逐行评论、多语言规则及 OpenAI、Anthropic 接口。 |
-| 05 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ +4,198 | Python | 跨 Reddit、X、YouTube、Hacker News、Polymarket 和网页研究主题，再生成有来源依据的总结。 |
-| 06 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | ⭐ +2,795 | TypeScript | 把 Chrome DevTools 能力接入编程智能体，便于检查和调试网页。 |
-| 07 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | ⭐ +3,113 | Python | 面向投资者和交易员的 Claude Code 技能，涵盖市场分析、技术图表、经济日历、筛选器和策略开发。 |
-| 08 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | ⭐ +3,792 | TypeScript | AG-UI 协议，让智能体接入前端应用并与用户交互。 |
-| 09 | [meta/astryx](https://github.com/meta/astryx) | ⭐ +3,967 | TypeScript | 开源、可定制且面向智能体的设计系统。 |
-| 10 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | ⭐ +524 | Objective-C | 让不同型号的 Apple Watch 都能启用 Hermès 表盘。 |
-| 11 | [we-promise/sure](https://github.com/we-promise/sure) | ⭐ +2,041 | Ruby | 面向所有人的个人理财应用，强调由用户共同参与建设。 |
-| 12 | [dream-num/univer](https://github.com/dream-num/univer) | ⭐ +7,240 | TypeScript | Office SDK，可将编辑、计算、协作和文件处理能力接入产品，供用户和智能体使用。 |
-| 13 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | ⭐ +3,598 | Python | 面向编程智能体的本地视频编辑工具，基于 FFmpeg 和 MCP，支持剪辑、字幕、画幅调整及平台导出。 |
+| 01 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | ⭐ +2,815 | TypeScript | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| 02 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | ⭐ +2,683 | TypeScript | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
+| 03 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | ⭐ +3,575 | TypeScript | Keep your coding agent up to date with the latest web best practices |
+| 04 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | ⭐ +3,700 | Go | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 05 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ +4,731 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 06 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | ⭐ +2,268 | TypeScript | Chrome DevTools for coding agents |
+| 07 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | ⭐ +2,616 | Python | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
+| 08 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | ⭐ +3,620 | TypeScript | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| 09 | [meta/astryx](https://github.com/meta/astryx) | ⭐ +3,626 | TypeScript | An open source design system that's fully customizable and agent ready |
+| 10 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | ⭐ +461 | Objective-C | Enable Hermès Watch Faces on any Apple Watch devices |
+| 11 | [we-promise/sure](https://github.com/we-promise/sure) | ⭐ +1,771 | Ruby | The personal finance app for everyone (by everyone) |
+| 12 | [dream-num/univer](https://github.com/dream-num/univer) | ⭐ +6,436 | TypeScript | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
+| 13 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | ⭐ +3,748 | Python | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. |
 <!-- latest-digest:end -->
 
 ## 🗂️ 历史周报
