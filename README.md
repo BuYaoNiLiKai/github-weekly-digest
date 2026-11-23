@@ -18,7 +18,7 @@
 | 05 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ +4,198 | Python | 跨 Reddit、X、YouTube、Hacker News、Polymarket 和网页研究主题，再生成有来源依据的总结。 |
 | 06 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | ⭐ +2,795 | TypeScript | 把 Chrome DevTools 能力接入编程智能体，便于检查和调试网页。 |
 | 07 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | ⭐ +3,113 | Python | 面向投资者和交易员的 Claude Code 技能，涵盖市场分析、技术图表、经济日历、筛选器和策略开发。 |
-| 08 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | ⭐ +3,792 | TypeScript | Agent-User Interaction Protocol，让智能体接入前端应用并与用户交互。 |
+| 08 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | ⭐ +3,792 | TypeScript | AG-UI 协议，让智能体接入前端应用并与用户交互。 |
 | 09 | [meta/astryx](https://github.com/meta/astryx) | ⭐ +3,967 | TypeScript | 开源、可定制且面向智能体的设计系统。 |
 | 10 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | ⭐ +524 | Objective-C | 让不同型号的 Apple Watch 都能启用 Hermès 表盘。 |
 | 11 | [we-promise/sure](https://github.com/we-promise/sure) | ⭐ +2,041 | Ruby | 面向所有人的个人理财应用，强调由用户共同参与建设。 |
