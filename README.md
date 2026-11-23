@@ -5,27 +5,30 @@
 榜单按 GitHub 的周榜顺序整理，展示最近 **7 天**新增 Star 和项目简介。周榜是滚动周期，不是自然周。
 
 <!-- latest-digest:start -->
-## 🏆 最新周榜 · 2026-11-16
+## 🏆 最新周榜 · 2026-11-23
 
-**抓取时间：** 2026-11-16 15:27（北京时间） · **收录项目：** 11 个 · [查看 GitHub Trending](https://github.com/trending?since=weekly)
+**抓取时间：** 2026-11-22 14:57（北京时间） · **收录项目：** 13 个 · [查看 GitHub Trending](https://github.com/trending?since=weekly)
 
 | 排名 | 项目 | 本周新增 | 语言 | 项目简介 |
 |:---:|---|---:|---|---|
-| 01 | [meta/astryx](https://github.com/meta/astryx) | ⭐ +13,501 | TypeScript | An open source design system that's fully customizable and agent ready |
-| 02 | [anthropics/skills](https://github.com/anthropics/skills) | ⭐ +6,077 | Python | Public repository for Agent Skills |
-| 03 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | ⭐ +10,412 | Python | Hunt down social media accounts by username across social networks |
-| 04 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | ⭐ +1,719 | TypeScript | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
-| 05 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | ⭐ +4,217 | Rust | Browser automation CLI for AI agents |
-| 06 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ +4,548 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
-| 07 | [we-promise/sure](https://github.com/we-promise/sure) | ⭐ +4,556 | Ruby | The personal finance app for everyone (by everyone) |
-| 08 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ⭐ +5,463 | TypeScript | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 09 | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | ⭐ +5,060 | Python | Open-source plugin for designing and reviewing software with agents |
-| 10 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | ⭐ +1,922 | C++ | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| 11 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ +3,889 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| 01 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | ⭐ +3,396 | TypeScript | 帮助团队跟进智能体工作，可规划、批注、审查代码，并一键把反馈发回智能体。 |
+| 02 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | ⭐ +2,431 | TypeScript | 适配 Stitch MCP 的 Agent Skills 技能库，兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编程智能体。 |
+| 03 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | ⭐ +4,400 | TypeScript | 为编程智能体提供最新的 Web 开发最佳实践。 |
+| 04 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | ⭐ +4,032 | Go | 阿里巴巴的混合式代码审查工具，结合确定性规则和大语言模型，支持逐行评论、多语言规则及 OpenAI、Anthropic 接口。 |
+| 05 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ +4,198 | Python | 跨 Reddit、X、YouTube、Hacker News、Polymarket 和网页研究主题，再生成有来源依据的总结。 |
+| 06 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | ⭐ +2,795 | TypeScript | 把 Chrome DevTools 能力接入编程智能体，便于检查和调试网页。 |
+| 07 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | ⭐ +3,113 | Python | 面向投资者和交易员的 Claude Code 技能，涵盖市场分析、技术图表、经济日历、筛选器和策略开发。 |
+| 08 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | ⭐ +3,792 | TypeScript | Agent-User Interaction Protocol，让智能体接入前端应用并与用户交互。 |
+| 09 | [meta/astryx](https://github.com/meta/astryx) | ⭐ +3,967 | TypeScript | 开源、可定制且面向智能体的设计系统。 |
+| 10 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | ⭐ +524 | Objective-C | 让不同型号的 Apple Watch 都能启用 Hermès 表盘。 |
+| 11 | [we-promise/sure](https://github.com/we-promise/sure) | ⭐ +2,041 | Ruby | 面向所有人的个人理财应用，强调由用户共同参与建设。 |
+| 12 | [dream-num/univer](https://github.com/dream-num/univer) | ⭐ +7,240 | TypeScript | Office SDK，可将编辑、计算、协作和文件处理能力接入产品，供用户和智能体使用。 |
+| 13 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | ⭐ +3,598 | Python | 面向编程智能体的本地视频编辑工具，基于 FFmpeg 和 MCP，支持剪辑、字幕、画幅调整及平台导出。 |
 <!-- latest-digest:end -->
 
 ## 🗂️ 历史周报
 
+- [2026-11-23 周榜归档](reports/2026-11-23.md)
 - [2026-11-16 周榜归档](reports/2026-11-16.md)
 - [2026-11-09 周榜归档](reports/2026-11-09.md)
 - [2026-11-02 周榜归档](reports/2026-11-02.md)
