@@ -70,8 +70,8 @@ def translate_description(repo: str, description: str) -> str:
         return TRANSLATIONS[repo]
     if not description:
         return "GitHub 尚未提供项目简介。"
-    has_chinese = bool(re.search(r"[\\u4e00-\\u9fff]", description))
-    has_english_phrase = bool(re.search(r"[A-Za-z]{3,}(?:\\s+[A-Za-z]{3,}){2,}", description))
+    has_chinese = bool(re.search(r"[\u4e00-\u9fff]", description))
+    has_english_phrase = bool(re.search(r"[A-Za-z]{3,}(?:\s+[A-Za-z]{3,}){2,}", description))
     if has_chinese and not has_english_phrase:
         return description
 
